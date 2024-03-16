@@ -1,0 +1,7 @@
+
+******Main
+https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas
+
+
+******2nd
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
